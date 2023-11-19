@@ -1,0 +1,4 @@
+{
+  "maxLogFiles": 5,
+  "logFrequencySeconds": 3
+}

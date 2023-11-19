@@ -1,0 +1,5 @@
+{
+    "logDirectory": "build/logs",
+    "maxLogFiles": 5,
+    "logFrequencySeconds": 3
+}
